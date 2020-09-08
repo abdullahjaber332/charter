@@ -11,3 +11,6 @@ This task was completed using React, moment and faker.
 
 
 ![5](https://user-images.githubusercontent.com/32257754/92492469-fb437500-f1b8-11ea-984e-34b68f149bf0.PNG)
+
+
+![6](https://user-images.githubusercontent.com/32257754/92492682-4067a700-f1b9-11ea-8876-3185fb22fe01.PNG)
